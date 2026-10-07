@@ -1,10 +1,11 @@
 {
     "name": "Atul",
-    "age": 25,
+    "age": 21,
     "course": "Python",
     "skills": [
         "Linux",
         "Docker",
         "Python"
-    ]
+    ],
+    "city": "New York"
 }
